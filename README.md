@@ -116,14 +116,15 @@ https://github.com/Shub202/DSA-Assingnment-1-Cyclic-Sub-String.git
 
 // *****Output********:
 
-PS E:\Advance Coding 1> gcc main.c -o main
-PS E:\Advance Coding 1> ./main 
-Enter string: abca
-Maximum Sum: 6
-PS E:\Advance Coding 1> ./main
-Enter string: Shivam
-Invalid Input
-PS E:\Advance Coding 1> 
+• PS E:\Advance Coding 1> gcc main.c -o main
+• PS E:\Advance Coding 1> ./main
+• Enter string: abca
+• Maximum Sum: 6
+
+• PS E:\Advance Coding 1> ./main
+• Enter string: Shivam
+• Invalid Input
+• PS E:\Advance Coding 1>
 
 
 
